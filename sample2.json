@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "161385360554578",
+      "title": "Chelsea sign Sanchez, Bayern want Kane answer, Man United to announce Hojlund",
+      "description": "talkSPORT.com brings you all the latest football news, insight and transfer gossip. Check out the headline stories and follow our live blog below for regular updates throughout the day. Headlines: …",
+      "url": "https://talksport.com/football/1486182/football-news-live-harry-kane-tottenham-man-utd-rasmus-hojlund/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/HB-TALKSPORT-BLOG-5-AUGUST1.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-08-05T08:45:26Z",
+      "content": "Leeds United are in a spot of bother ahead of their Championship opener – with NINE players on the sidelines.\r\nThree of those players currently out injured are his strikers, including Patrick Bamford… [+2093 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Bill Connelly",
+      "title": "College football 'Ifs List': How contenders can come together - ESPN",
+      "description": "The fewer things that have to go right to win a title, the better a team's chances of taking the crown. Here's what has to fall each contender's way.",
+      "url": "https://www.espn.com/college-football/insider/story/_/id/38115407/connelly-college-football-ifs-list-contenders-georgia-alabama-ohio-state-michigan-lsu",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0801%2Fr1204970_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-08-03T11:00:00Z",
+      "content": "We always think we know what's coming at this point in the offseason. We know who's going to be the preseason No. 1 (in this case, two-time defending national champion Georgia), and we know which blu… [+33026 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
